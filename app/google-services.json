@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135762052926",
+    "project_id": "largess1-8a017",
+    "storage_bucket": "largess1-8a017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135762052926:android:83bd5a25cde8541d770e6f",
+        "android_client_info": {
+          "package_name": "com.example.largess1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02ItbERjvRWqySeTP4CuIOAlwmuqAYwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
